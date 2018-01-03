@@ -39,7 +39,7 @@ You should set `WEBHOOK_URL` (in app.py) to `your-https-URL/hook`.
 python3 app1.py
 ```
 ## Finite State Machine
-![fsm](./img/show-fsm.png)
+![fsm](./image/show-fsm.png)
 
 ## Usage
 The initial state is ser to "ko_wen_je"
@@ -60,4 +60,4 @@ You can ask question about "Ko_Wen_Je"
 		* Reply: "He remain Independent"
 		
 ## Deno ScreenShot
-![demo](./img/demo.png)
+![demo](./image/demo.png)
